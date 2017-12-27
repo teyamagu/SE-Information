@@ -5,20 +5,20 @@ A curated list of conferences and seminars for software engineering.
 ### [SQiPシンポジウム](http://www.juse.jp/sqip/symposium/)
 - 2015/09/17: 併設チュートリアル, 2015/09/18-19: 本会議 @東洋大学 白山キャンパス, 41,040円(早割 32,840円)
 - 2016/09/14: 併設チュートリアル, 2016/09/15-16: 本会議 @東洋大学 白山キャンパス, 41,040円(早割 32,840円)※8/4申し込み分まで
-- 2017/09/13: 併設チュートリアル, 2017/09/14-15: 本会議 @東洋大学 白山キャンパス 
+- 2017/09/13: 併設チュートリアル, 2017/09/14-15: 本会議 @東洋大学 白山キャンパス
 
 ### [JUSE-SQiPセミナー](http://juse-sqip.jp/juse_seminar/seminar_all.html)
 ### [ソフトウェア・シンポジウム: SS](http://sea.jp/)
 - [SS2015](http://sea.jp/ss2015/)は2015/6/14-17開催
 - [SS2016](http://sea.jp/ss2016/)は2016/6/5(日)-8(水) @米子コンベンションセンター, 協賛団体会員: 25,000, 一般: 35,000-
-	- 6/5(日): 併設イベント, 6/6(月)-8(水): 本会議
+    - 6/5(日): 併設イベント, 6/6(月)-8(水): 本会議
 - [SS2017](http://sea.jp/ss2017/)は2017/6/7(水)-9(金) @宮崎市民プラザ
 - [SS2018](http://sea.jp/ss2018/)は2018/2018/6/6(水)-8(金)@札幌 [かでる2・7](http://homepage.kaderu27.or.jp/)
 
 ### [ソフトウェアエンジニアリングシンポジウム: SES](http://ses.sigse.jp/2016/)
 - [SES2015](http://ses.sigse.jp/2015/)は2015/9/7-9 @慶應 日吉で開催, 情処正会員（協賛団体会員を含む）16,000-, 非会員 19,000-, 情報交換会 会費3,000-
 - [SES2016](http://ses.sigse.jp/2016/)は2016/8/31/-9/2 @東洋大白山キャンパス
-	- 2016年8月31日（水）：ワークショップ,2016年9月1日（木），9月2日（金）：シンポジウム本体
+    - 2016年8月31日（水）：ワークショップ,2016年9月1日（木），9月2日（金）：シンポジウム本体
 - [SES2017](http://ses.sigse.jp/2017/)は2017/8/30/-9/1 @早稲田大学グリーンコンピューティングシステム研究開発センター
 
 ### ソフトウェアジャパン
@@ -45,7 +45,7 @@ A curated list of conferences and seminars for software engineering.
 - JaSST'16 Hokkaido :2016年9月2日(金)@札幌市教育文化会館
 - JaSST'16 Kansai :2016年6月17日(金)@いたみホール（伊丹市立文化会館）
 - JaSST'16 Tohoku :2016年5月20日(金)@仙台市情報・産業プラザ ネットU セミナールム（2）
-- JaSST'16 Niigata :2016年4月15日(金) @朱鷺メッセ　中会議室302B　
+- JaSST'16 Niigata :2016年4月15日(金) @朱鷺メッセ　中会議室302B
 - JaSST'16 Tokyo : 2016年3月8日(火)～9日(水) @日本大学理工学部　駿河台校舎１号館 (東京都・千代田区)
 - JaSST'15 Shikoku : 2015年12月11日(金) @香川大学研究交流棟 ５階 （香川大学教育学部キャンパス内）（香川県・高松市）
 - JaSST'15 Tokai : 2015年11月6日(金) @刈谷市総合文化センター　アイリス（愛知県・刈谷市）
@@ -80,8 +80,8 @@ A curated list of conferences and seminars for software engineering.
 
 ## Conferences and Seminars in the world
 ### [Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/)
-- 2015: Nov 10-11 at Google Cambridge. 
-- 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016. 
+- 2015: Nov 10-11 at Google Cambridge.
+- 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016.
     - May 1, 2016  - Registration opens for speakers and attendees.
     - June 1, 2016 - Registration closes for speaker and attendee submissions.
     - June 30, 2016 - Selected attendees will be notified.
@@ -101,6 +101,7 @@ A curated list of conferences and seminars for software engineering.
     - Workshop Day on Wednesday, Feb 28
 
 ### Selenium Conf
+- [2017](https://www.seleniumconf.de): 9–10 October 2017 @ Berlin, Germany
 - [2018](https://www.seleniumconf.us): AUTUMN 2018 @ Chicago, USA
 
 ### [EuroSTAR Conference](https://conference.eurostarsoftwaretesting.com/)
@@ -108,22 +109,29 @@ A curated list of conferences and seminars for software engineering.
 - 2015: 2015/11/2-5 @ Maastricht, Netherlands., max 2275ユーロ
 - 2016: 2016/10/31-11/3 @ Stockholm, Sweden., max 2310ユーロ （Full Conference）
 - 2017: 2017/11/6-9 @ Copenhagen, Denmark
+- 2018: 2018/11/12-15 @ Hague, Netherlands
+    - UKSTAR: mid-March 2018 @ London と2018/1/23までセット販売
 
 ### [Agile Testing Days](https://agiletestingdays.com/)
 アジャイル開発におけるテスト・品質保証に特化した形での最大規模のカンファレンス
 - 2015: 2015/11/09-12 @ Postdam, Germany, max1850ユーロ
 - 2016: 2016/12/05-09 @ Postdam, Germany, max1850ユーロ REGULAR（3-day conference）
 - 2017: 2017/11/13-17 @ Postdam, Germany
+- 2018: 2017/11/12-16 @ Postdam, Germany
 
 ### Agile Conference
 アジャイル開発における世界最大のカンファレンス
 - [2015](https://www.agilealliance.org/agile2015/): 2015/8/3-7 @ Washington D.C, USA, $2,000- 前後
 - [2016](https://www.agilealliance.org/agile2016/): 2016/7/25-29 @ Atlanta, GA, USA, $2,399（Regular）-1,999（Agile Alliance Member）・999（Academic）
 - [2017](https://www.agilealliance.org/agile2017/): 2017/8/7-11 @ Orlando, Florida, USA
+Agile2018
+- [2018](https://www.agilealliance.org/agile2018/): 2018/8/6-10 @ Marriott Marquis San Diego, San Diego, California USA
 
 ### Agile Testing & BDD eXchange
 - 2015: 2015/11/12-13 @ London, UK, now 195ユーロ+税，max 650ユーロ
 - 2016: 2016/11/10-11 @ CodeNode , London,now 395ユーロ+VAT，max650ユーロ
+- [2017](https://skillsmatter.com/conferences/8628-agile-testing-and-bdd-exchange-2017): 2017/9/9-10 @ CodeNode, London
+- [2018](https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018): 2018/9/8-9 @ CodeNode, London
 
 ### XP Conference
 アジャイル開発における欧州最大のカンファレンス．Agile Conferenceと比較すると研究色が強め．
@@ -134,12 +142,16 @@ A curated list of conferences and seminars for software engineering.
 
 ### [STAREAST (Software Testing Analysis & Review East)](https://stareast.techwell.com/)
 - 2015: 2015/5/3-8 @ OrlandO, FL, USA, $2,600- 前後
-- 2016: 2016/5/1-6 @ Orlando, FL, $695-3,795
+- 2016: 2016/5/1-6 @ Orlando, FL, USA, $695-3,795
+- 2017: -
+- 2018: 2018/4/29-5/4 @ Orlando, FL, USA
 
 ### [STARWEST (Software Testing Analysis & Review West)](https://starwest.techwell.com/)
+テストに関する総合的なカンファレンス。最近の基本的な技術に関する講演やチュートリアル、ワークショップが多い。
 - 2015: 2015/9/27-2015/10/2 @ Anahiem, California, USA, $2,600- 前後
 - 2016: 2016/10/2-7 @ Anaheim, CA, $695-3,795
 - 2017: 2017/10/1-6 @ Anaheim, CA, USA
+- 2018: 2018/9/30-10/5 @ Anaheim, CA, USA
 
 ### Better Software Conference West / Agile Development Conference West / DevOps Conference West
 どれか登録で3つとも行ける
