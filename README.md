@@ -11,14 +11,14 @@ A curated list of conferences and seminars for software engineering.
 ### [ソフトウェア・シンポジウム: SS](http://sea.jp/)
 - [SS2015](http://sea.jp/ss2015/)は2015/6/14-17開催
 - [SS2016](http://sea.jp/ss2016/)は2016/6/5(日)-8(水) @米子コンベンションセンター, 協賛団体会員: 25,000, 一般: 35,000-
-    - 6/5(日): 併設イベント, 6/6(月)-8(水): 本会議
+	- 6/5(日): 併設イベント, 6/6(月)-8(水): 本会議
 - [SS2017](http://sea.jp/ss2017/)は2017/6/7(水)-9(金) @宮崎市民プラザ
 - [SS2018](http://sea.jp/ss2018/)は2018/2018/6/6(水)-8(金)@札幌 [かでる2・7](http://homepage.kaderu27.or.jp/)
 
 ### [ソフトウェアエンジニアリングシンポジウム: SES](http://ses.sigse.jp/2016/)
 - [SES2015](http://ses.sigse.jp/2015/)は2015/9/7-9 @慶應 日吉で開催, 情処正会員（協賛団体会員を含む）16,000-, 非会員 19,000-, 情報交換会 会費3,000-
 - [SES2016](http://ses.sigse.jp/2016/)は2016/8/31/-9/2 @東洋大白山キャンパス
-    - 2016年8月31日（水）：ワークショップ,2016年9月1日（木），9月2日（金）：シンポジウム本体
+	- 2016年8月31日（水）：ワークショップ,2016年9月1日（木），9月2日（金）：シンポジウム本体
 - [SES2017](http://ses.sigse.jp/2017/)は2017/8/30/-9/1 @早稲田大学グリーンコンピューティングシステム研究開発センター
 
 ### ソフトウェアジャパン
@@ -41,14 +41,22 @@ A curated list of conferences and seminars for software engineering.
 - [2017](http://www.nspice.net/modules/activity/index.php?content_id=36): 2017年2月24日(金) 10:00～17:00 @ 名古屋市工業研究所
 
 ### [ソフトウェアテストシンポジウム JaSST](http://www.jasst.jp/)
+- JaSST'18 Tokyo :2018年3月7日(水)～8日(木) @ 日本大学理工学部 駿河台校舎１号館（東京都・千代田区)
+- JaSST'17 Tokai :2017年12月8日(金) @ 刈谷市総合文化センター アイリス（愛知県・刈谷市）
+- JaSST'17 Shikoku :2017年11月24日(金) @ 香川大学研究交流棟 5階 （香川大学教育学部キャンパス内）（香川県・高松市）
+- JaSST'17 Kyushu :2017年11月2日(木) @ 北九州学術研究都市(学研都市)学術情報センター 遠隔講義室１（福岡県・北九州市）
+- JaSST'17 Hokkaido :2017年9月8日(金) @ 札幌市教育文化会館 (北海道・札幌市)
+- JaSST'17 Kansai :2017年6月23日(金) @ いたみホール（伊丹市立文化会館） (兵庫県 伊丹市）
+- JaSST'17 Tohoku :2017年5月26日(金) @ 仙台市戦災復興記念館 5階会議室 (宮城県・仙台市)
+- JaSST'17 Niigata :2017年4月28日(金) @ 朱鷺メッセ 中会議室 201B （新潟県・新潟市）
 - JaSST'17 Tokyo :2017年2月3日(金), 4日(土)@日本大学理工学部 駿河台校舎1号館
 - JaSST'16 Hokkaido :2016年9月2日(金)@札幌市教育文化会館
 - JaSST'16 Kansai :2016年6月17日(金)@いたみホール（伊丹市立文化会館）
 - JaSST'16 Tohoku :2016年5月20日(金)@仙台市情報・産業プラザ ネットU セミナールム（2）
-- JaSST'16 Niigata :2016年4月15日(金) @朱鷺メッセ　中会議室302B
-- JaSST'16 Tokyo : 2016年3月8日(火)～9日(水) @日本大学理工学部　駿河台校舎１号館 (東京都・千代田区)
-- JaSST'15 Shikoku : 2015年12月11日(金) @香川大学研究交流棟 ５階 （香川大学教育学部キャンパス内）（香川県・高松市）
-- JaSST'15 Tokai : 2015年11月6日(金) @刈谷市総合文化センター　アイリス（愛知県・刈谷市）
+- JaSST'16 Niigata :2016年4月15日(金) @朱鷺メッセ 中会議室302B
+- JaSST'16 Tokyo : 2016年3月8日(火)～9日(水) @日本大学理工学部 駿河台校舎１号館 (東京都・千代田区)
+- JaSST'15 Shikoku : 2015年12月11日(金) @香川大学研究交流棟 5階 （香川大学教育学部キャンパス内）（香川県・高松市）
+- JaSST'15 Tokai : 2015年11月6日(金) @刈谷市総合文化センター アイリス（愛知県・刈谷市）
 - JaSST'15 Kyushu : 2015年10月9日(金) @富士通九州R&Dセンター プレゼンテーションルーム （福岡県・福岡市）
 - JaSST'15 Hokkaido : 2015年9月18日(金) @札幌市教育文化会館 (北海道・札幌市)
 - JaSST'15 Kansai : 2015年6月26日(金) @いたみホール （伊丹市立文化会館） (兵庫県・伊丹市)
@@ -68,8 +76,8 @@ A curated list of conferences and seminars for software engineering.
 ### [ソフトウェア工学研究会](http://www.ipsj.or.jp/sig/se/)
 - "第xxx回ソフトウェア工学研究発表会"は上記サイト参照
 - ウィンターワークショップ(WWS)
-    - [WWS2017](http://wws.sigse.jp/2017/index.html) 2017年1月19日（木）～20日（金） 高山市民文化会館／ひだホテルプラザ
-    - [WWS2018](http://wws.sigse.jp/2018/index.html) 2018/1/18（木）-19（金）@宮島コーラルホテル
+	- [WWS2017](http://wws.sigse.jp/2017/index.html) 2017年1月19日（木）～20日（金） 高山市民文化会館／ひだホテルプラザ
+	- [WWS2018](http://wws.sigse.jp/2018/index.html) 2018/1/18（木）-19（金）@宮島コーラルホテル
 
 ## Conferences Link(in the world)
 ### [WikiCFP](http://www.wikicfp.com/cfp/call?conference=software%20engineering)
@@ -82,12 +90,12 @@ A curated list of conferences and seminars for software engineering.
 ### [Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/)
 - 2015: Nov 10-11 at Google Cambridge.
 - 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016.
-    - May 1, 2016  - Registration opens for speakers and attendees.
-    - June 1, 2016 - Registration closes for speaker and attendee submissions.
-    - June 30, 2016 - Selected attendees will be notified.
-    - August 15, 2016 - Selected speakers will be notified.
-    - November 14, 2016 - Rehearsal day for speakers.
-    - November 15-16, 2016 - GTAC 2016!
+	- May 1, 2016  - Registration opens for speakers and attendees.
+	- June 1, 2016 - Registration closes for speaker and attendee submissions.
+	- June 30, 2016 - Selected attendees will be notified.
+	- August 15, 2016 - Selected speakers will be notified.
+	- November 14, 2016 - Rehearsal day for speakers.
+	- November 15-16, 2016 - GTAC 2016!
 - [2017](https://events.withgoogle.com/gtac-2017/): ~~Google UK, Kings Cross, London, United Kingdom on Nov. 14, 2017 - Nov. 15, 2017~~ 2018へSKIP
 
 ### [TestBash](https://dojo.ministryoftesting.com/events)
@@ -98,7 +106,7 @@ A curated list of conferences and seminars for software engineering.
 
 ### [SauceCon](https://saucecon.com)
 - 2018: 2018/3/1-2 @ SAN FRANCISCO
-    - Workshop Day on Wednesday, Feb 28
+	- Workshop Day on Wednesday, Feb 28
 
 ### Selenium Conf
 - [2017](https://www.seleniumconf.de): 9–10 October 2017 @ Berlin, Germany
@@ -110,7 +118,7 @@ A curated list of conferences and seminars for software engineering.
 - 2016: 2016/10/31-11/3 @ Stockholm, Sweden., max 2310ユーロ （Full Conference）
 - 2017: 2017/11/6-9 @ Copenhagen, Denmark
 - 2018: 2018/11/12-15 @ Hague, Netherlands
-    - UKSTAR: mid-March 2018 @ London と2018/1/23までセット販売
+	- UKSTAR: mid-March 2018 @ London と2018/1/23までセット販売
 
 ### [Agile Testing Days](https://agiletestingdays.com/)
 アジャイル開発におけるテスト・品質保証に特化した形での最大規模のカンファレンス
@@ -177,9 +185,9 @@ Agile2018
 
 ### AST(IEEE/ACM International Workshop on Automation of Software Test)
 - 2016: Workshop dates: 14-15 May 2016, ICSE2016の併設workshop
-    - Special Theme: Scalability of Test Automation
+	- Special Theme: Scalability of Test Automation
 - 2017: Workshop dates:  May 2017, ICSE2017の併設workshop
-    - Special Theme: Test Automation in Agile Development
+	- Special Theme: Test Automation in Agile Development
 
 ### ISSRE(the IEEE International Symposium on Software Reliability Engineering)
 - 2016: 2016/10/23-27 @ Ottawa, Canada, non-Memberで1000CAD
