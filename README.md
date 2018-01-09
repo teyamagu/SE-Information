@@ -112,6 +112,10 @@ A curated list of conferences and seminars for software engineering.
 - [2017](https://www.seleniumconf.de): 9–10 October 2017 @ Berlin, Germany
 - [2018](https://www.seleniumconf.us): AUTUMN 2018 @ Chicago, USA
 
+### [appium Conference](https://appiumconf.com)
+- 2018: 2018/04/06 @ London, UK
+	- £499(EX. VAT @20%)
+
 ### [EuroSTAR Conference](https://conference.eurostarsoftwaretesting.com/)
 ソフトウェア品質保証系の欧州最大のカンファレンス
 - 2015: 2015/11/2-5 @ Maastricht, Netherlands., max 2275ユーロ
