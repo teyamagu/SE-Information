@@ -1,7 +1,7 @@
 # List of Conferences and Seminars for Software Engineering
 A curated list of conferences and seminars for software engineering.
 
-## Conferences in Japan
+## :red_circle: Conferences in Japan
 
 ### [Developers Summit](http://event.shoeisha.jp/devsumi) / 2月(東京)
 総合ITカンファレンス。ソフトウェアエンジニアリングに限らない。毎年2月に東京で開催されるものを筆頭に、他の時期、地域でも開催される。
@@ -51,7 +51,7 @@ SPICE のカンファレンスと研究会。
 ### [ソフトウェアプロセス改善カンファレンス SPI Japan](http://www.jaspic.org/events/sj/) / 10月
 プロセス改善を扱う。1日のチュートリアルと2日間の本会議という構成が通例。
 
-## Seminars in Japan
+##  :red_circle: Seminars in Japan
 
 ### [ソフトウェア工学勉強会](https://sites.google.com/site/sereadings/)
 ICSE で発表された論文を紹介する勉強会
@@ -71,14 +71,14 @@ SQiPシンポジウムの主催団体が行うセミナー
 ### [ヒンシツ大学](http://www.hinshitsu-univ.jp/)
 ソフトウェアテストの会社 SHIFT が主催するセミナー。
 
-## Conferences Link(in the world)
+##  :red_circle: Conferences Link(in the world)
 ### [WikiCFP](http://www.wikicfp.com/cfp/call?conference=software%20engineering)
 - CFPがまとまっている
 
 ### [ACM SIGSOFT SEWORLD Mailing List](https://www.sigsoft.org/resources/seworld.html)
 - [Archives](http://listserv.acm.org/scripts/wa-acmlpx.exe?A0=seworld)
 
-## Conferences and Seminars in the world
+##  :red_circle: Conferences and Seminars in the world
 ### [Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/)
 - 2015: Nov 10-11 at Google Cambridge.
 - 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016.
