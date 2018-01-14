@@ -1,92 +1,84 @@
 # List of Conferences and Seminars for Software Engineering
 A curated list of conferences and seminars for software engineering.
 
-## Conferences and Seminars in Japan
-### [SQiPシンポジウム](http://www.juse.jp/sqip/symposium/)
-- 2015/09/17: 併設チュートリアル, 2015/09/18-19: 本会議 @東洋大学 白山キャンパス, 41,040円(早割 32,840円)
-- 2016/09/14: 併設チュートリアル, 2016/09/15-16: 本会議 @東洋大学 白山キャンパス, 41,040円(早割 32,840円)※8/4申し込み分まで
-- 2017/09/13: 併設チュートリアル, 2017/09/14-15: 本会議 @東洋大学 白山キャンパス
+## :red_circle: Conferences in Japan
 
-### [JUSE-SQiPセミナー](http://juse-sqip.jp/juse_seminar/seminar_all.html)
-### [ソフトウェア・シンポジウム: SS](http://sea.jp/)
-- [SS2015](http://sea.jp/ss2015/)は2015/6/14-17開催
-- [SS2016](http://sea.jp/ss2016/)は2016/6/5(日)-8(水) @米子コンベンションセンター, 協賛団体会員: 25,000, 一般: 35,000-
-	- 6/5(日): 併設イベント, 6/6(月)-8(水): 本会議
-- [SS2017](http://sea.jp/ss2017/)は2017/6/7(水)-9(金) @宮崎市民プラザ
-- [SS2018](http://sea.jp/ss2018/)は2018/2018/6/6(水)-8(金)@札幌 [かでる2・7](http://homepage.kaderu27.or.jp/)
+### [Developers Summit](http://event.shoeisha.jp/devsumi) / 2月(東京)
+総合ITカンファレンス。ソフトウェアエンジニアリングに限らない。毎年2月に東京で開催されるものを筆頭に、他の時期、地域でも開催される。
+- [デブサミ2018冬](http://event.shoeisha.jp/devsumi/20180215/): 2018/02/15-16 @ ホテル雅叙園 東京
 
-### [ソフトウェアエンジニアリングシンポジウム: SES](http://ses.sigse.jp/2016/)
-- [SES2015](http://ses.sigse.jp/2015/)は2015/9/7-9 @慶應 日吉で開催, 情処正会員（協賛団体会員を含む）16,000-, 非会員 19,000-, 情報交換会 会費3,000-
-- [SES2016](http://ses.sigse.jp/2016/)は2016/8/31/-9/2 @東洋大白山キャンパス
-	- 2016年8月31日（水）：ワークショップ,2016年9月1日（木），9月2日（金）：シンポジウム本体
-- [SES2017](http://ses.sigse.jp/2017/)は2017/8/30/-9/1 @早稲田大学グリーンコンピューティングシステム研究開発センター
-
-### ソフトウェアジャパン
+### [ソフトウェアジャパン](https://www.ipsj.or.jp/event/sj.html) / 2月, 論文あり
 情報処理学会主催の比較的コンピュータサイエンス全般に関するイベント
 - [SJ2018](http://www.ipsj.or.jp/event/sj/sj2018/): 2018/2/2（金） 9:30-18:05 @ 学術総合センター ・一橋記念講堂
-- [SJ2017](http://www.ipsj.or.jp/event/sj/sj2017/): 2017/2/3 9:30-18:45 @ 学術総合センター ・一橋記念講堂
-- [SJ2016](http://www.ipsj.or.jp/event/sj/sj2016/)
-- [SJ2015](http://www.ipsj.or.jp/event/sj/sj2015/)
-- [SJ2014](http://www.ipsj.or.jp/event/sj/sj2014/)
-- [SJ2013](http://www.ipsj.or.jp/event/sj/sj2013/)
-- [SJ2012](http://www.ipsj.or.jp/event/sj/sj2012/)
 
-### [ソフトウェアプロセス改善カンファレンス SPI Japan](http://www.jaspic.org/events/sj/)
-- SPI Japan2015は2015/10/21-23 @姫路で開催, 本会議32,400-, チュートリアル16,200-
-- SPI Japan2016は2016/10/12-14 @富山で開催, 本会議32,400-, チュートリアル16,200-
-- SPI Japan2017は2017/10/11-13 @東京で開催
+### [NSPICE.NET](http://www.nspice.net/) / 2-3月
+SPICE のカンファレンスと研究会。
+- [NSPICE Conference 2018](http://www.nspice.net/modules/activity/index.php?content_id=43): 2018年3月2日(金) 10:00～17:00 @ ウインクあいち
 
-### NSPICE Conference
-- [2018](http://www.nspice.net/modules/activity/index.php?content_id=43): 2018年3月2日(金) 10:00～17:00 @ ウインクあいち
-- [2017](http://www.nspice.net/modules/activity/index.php?content_id=36): 2017年2月24日(金) 10:00～17:00 @ 名古屋市工業研究所
+### [ソフトウェアテストシンポジウム: JaSST](http://www.jasst.jp/) / 2-3月(東京), 論文あり
+ソフトウェアテスト専門のシンポジウム。東京では毎年2月に開催。ほか、北海道、東北、新潟、東海、四国、九州など各地で開催。東京は論文査読あり。
+- [JaSST'18 Tokyo](http://www.jasst.jp/symposium/jasst18tokyo.html) :2018年3月7日(水)～8日(木) @ 日本大学理工学部 駿河台校舎１号館（東京都・千代田区)
 
-### [ソフトウェアテストシンポジウム JaSST](http://www.jasst.jp/)
-- JaSST'18 Tokyo :2018年3月7日(水)～8日(木) @ 日本大学理工学部 駿河台校舎１号館（東京都・千代田区)
-- JaSST'17 Tokai :2017年12月8日(金) @ 刈谷市総合文化センター アイリス（愛知県・刈谷市）
-- JaSST'17 Shikoku :2017年11月24日(金) @ 香川大学研究交流棟 5階 （香川大学教育学部キャンパス内）（香川県・高松市）
-- JaSST'17 Kyushu :2017年11月2日(木) @ 北九州学術研究都市(学研都市)学術情報センター 遠隔講義室１（福岡県・北九州市）
-- JaSST'17 Hokkaido :2017年9月8日(金) @ 札幌市教育文化会館 (北海道・札幌市)
-- JaSST'17 Kansai :2017年6月23日(金) @ いたみホール（伊丹市立文化会館） (兵庫県 伊丹市）
-- JaSST'17 Tohoku :2017年5月26日(金) @ 仙台市戦災復興記念館 5階会議室 (宮城県・仙台市)
-- JaSST'17 Niigata :2017年4月28日(金) @ 朱鷺メッセ 中会議室 201B （新潟県・新潟市）
-- JaSST'17 Tokyo :2017年2月3日(金), 4日(土)@日本大学理工学部 駿河台校舎1号館
-- JaSST'16 Hokkaido :2016年9月2日(金)@札幌市教育文化会館
-- JaSST'16 Kansai :2016年6月17日(金)@いたみホール（伊丹市立文化会館）
-- JaSST'16 Tohoku :2016年5月20日(金)@仙台市情報・産業プラザ ネットU セミナールム（2）
-- JaSST'16 Niigata :2016年4月15日(金) @朱鷺メッセ 中会議室302B
-- JaSST'16 Tokyo : 2016年3月8日(火)～9日(水) @日本大学理工学部 駿河台校舎１号館 (東京都・千代田区)
-- JaSST'15 Shikoku : 2015年12月11日(金) @香川大学研究交流棟 5階 （香川大学教育学部キャンパス内）（香川県・高松市）
-- JaSST'15 Tokai : 2015年11月6日(金) @刈谷市総合文化センター アイリス（愛知県・刈谷市）
-- JaSST'15 Kyushu : 2015年10月9日(金) @富士通九州R&Dセンター プレゼンテーションルーム （福岡県・福岡市）
-- JaSST'15 Hokkaido : 2015年9月18日(金) @札幌市教育文化会館 (北海道・札幌市)
-- JaSST'15 Kansai : 2015年6月26日(金) @いたみホール （伊丹市立文化会館） (兵庫県・伊丹市)
-- JaSST'15 Tohoku : 2015年5月29日(金) @仙台市戦災復興記念館 ５階会議室 (宮城県・仙台市)
-- JaSST'15 Niigata : 2015年4月24日(金) @朱鷺メッセ 中会議室 302B （新潟県・新潟市）
-- JaSST'15 Tokyo : 2015年2月20日(金)～21日(土) @東洋大学 白山キャンパス (東京都・文京区)
+### [長崎 Softwar Quality and Development Gathering](https://nagasaki-it-engineers.connpass.com/) / 2月
+長崎になんらかの縁や関わり、興味があるIT技術者を中心とした技術コミュニティによるカンファレンス。
+ほか、東京にてほぼ毎月勉強会を開催。
 
+### [Agile Japan](http://www.agilejapan.org/) / 4月
+アジャイルソフトウェア開発のカンファレンス。
+- 2018 は7月下旬～8月上旬開催予定
 
-### [wacate](http://wacate.jp/)
+### [派生開発カンファレンス](http://affordd.jp/about_conference.shtml) / 5月, 論文あり
+派生開発を扱う。
+
+### [ソフトウェア・シンポジウム: SS](http://sea.jp/) / 6月, 論文あり
+札幌、宮崎、米子など開催地は様々。
+- [SS2018](http://sea.jp/ss2018/) 2018 年 6 月 6 日 (水曜日) 〜 8 日 (金曜日) @ 札幌
+
+### [ソフトウェア工学研究会 イベント案内](http://www.ipsj.or.jp/sig/se/event.html) / 9月(シンポジウム), 論文あり
+情報処理学会ソフトウェア工学研究会(SIGSE)では、年に3回の研究発表会、年に1回のシンポジウム、年に1回のウィンターワークショップを行うことが通例。論文あり。
+
+### [日本ソフトウェア科学会大会: JSSST](http://www.jssst.or.jp/) / 9月, 論文あり
+コンピューターサイエンスとソフトウェアエンジニアリングを扱う。
+
+### [情報科学技術フォーラム: FIT](http://www.ipsj.or.jp/event/fit/fit.html) / 9月, 論文あり
+情報処理学会と電子情報通信学会の共催。ソフトウェアエンジニアリングも含まれる。
+
+### [ソフトウェア品質シンポジウム: SQiPシンポジウム](http://www.juse.jp/sqip/symposium/) / 9月, 論文あり
+ソフトウェア品質を扱う。1日のチュートリアルと2日間の本会議という構成が通例。
+
+- [SS2018](http://sea.jp/ss2018/)は2018/2018/6/6(水)-8(金)@札幌 [かでる2・7](http://homepage.kaderu27.or.jp/)
+
+### [ソフトウェアプロセス改善カンファレンス SPI Japan](http://www.jaspic.org/events/sj/) / 10月
+プロセス改善を扱う。1日のチュートリアルと2日間の本会議という構成が通例。
+
+##  :red_circle: Seminars in Japan
+
+### [ソフトウェア工学勉強会](https://sites.google.com/site/sereadings/)
+ICSE で発表された論文を紹介する勉強会
+
+### [SQiPセミナー](http://www.juse.or.jp/sqip/seminar/list/index.html)
+SQiPシンポジウムの主催団体が行うセミナー
+
+### [WACATE](http://wacate.jp/)
+ソフトウェアテストの勉強会。6月と12月の年に2回、1泊2日という形式で行われるのが通例。
+
 ### [カフェ・ソフトウェアクオリティ](https://cafe-swq.jimdo.com/)
+[SQiP の SIG](http://www.juse.or.jp/sqip/community/sig/index.html#04_01) が主催するソフトウェア品質の勉強会。
 
 ### [Ques](http://quesqa.com/)
 - "Quesとは、Software品質保証に関わるQAエンジニアの活性化を目的としたQA専門のイベントです。"
 
-### SHIFT ヒンシツ大学 Evening Talk
+### [ヒンシツ大学](http://www.hinshitsu-univ.jp/)
+ソフトウェアテストの会社 SHIFT が主催するセミナー。
 
-### [ソフトウェア工学研究会](http://www.ipsj.or.jp/sig/se/)
-- "第xxx回ソフトウェア工学研究発表会"は上記サイト参照
-- ウィンターワークショップ(WWS)
-	- [WWS2017](http://wws.sigse.jp/2017/index.html) 2017年1月19日（木）～20日（金） 高山市民文化会館／ひだホテルプラザ
-	- [WWS2018](http://wws.sigse.jp/2018/index.html) 2018/1/18（木）-19（金）@宮島コーラルホテル
-
-## Conferences Link(in the world)
+##  :red_circle: Conferences Link(in the world)
 ### [WikiCFP](http://www.wikicfp.com/cfp/call?conference=software%20engineering)
 - CFPがまとまっている
 
 ### [ACM SIGSOFT SEWORLD Mailing List](https://www.sigsoft.org/resources/seworld.html)
 - [Archives](http://listserv.acm.org/scripts/wa-acmlpx.exe?A0=seworld)
 
-## Conferences and Seminars in the world
+##  :red_circle: Conferences and Seminars in the world
 ### [Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/)
 - 2015: Nov 10-11 at Google Cambridge.
 - 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016.
