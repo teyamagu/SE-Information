@@ -185,6 +185,14 @@ Agile2018
 - 2017: Workshop dates:  May 2017, ICSE2017の併設workshop
 	- Special Theme: Test Automation in Agile Development
 
+### ESEC/FSE(The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)
+- [2018](https://2018.fseconference.org): Lake Buena Vista, Florida, November 4-9, 2018
+
+### [A-TEST](https://a-test.org)
+- A-TEST workshop aims to provide a venue for researchers as well as the industry to exchange and discuss trending views, ideas, state of the art work in progress, and scientific results on Automated Testing.
+- 2018:
+	- CO-LOCATED WITH ESEC/FSE 2018
+
 ### ISSRE(the IEEE International Symposium on Software Reliability Engineering)
 - 2016: 2016/10/23-27 @ Ottawa, Canada, non-Memberで1000CAD
 
