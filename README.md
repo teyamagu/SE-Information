@@ -133,6 +133,8 @@ SQiPシンポジウムの主催団体が行うセミナー
 - [2017](https://www.agilealliance.org/agile2017/): 2017/8/7-11 @ Orlando, Florida, USA
 Agile2018
 - [2018](https://www.agilealliance.org/agile2018/): 2018/8/6-10 @ Marriott Marquis San Diego, San Diego, California USA
+- 2019: 2019/08/05-09 @ Washington D.C, USA
+- 2020: 2020/07/20-24 @ Orlando, Florida, USA
 
 ### Agile Testing & BDD eXchange
 - 2015: 2015/11/12-13 @ London, UK, now 195ユーロ+税，max 650ユーロ
@@ -141,11 +143,12 @@ Agile2018
 - [2018](https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018): 2018/9/8-9 @ CodeNode, London
 
 ### XP Conference
-アジャイル開発における欧州最大のカンファレンス．Agile Conferenceと比較すると研究色が強め．
+アジャイル開発における %%欧州最大%% のカンファレンス．2018よりAgile Allianceが関わっている．
 - 2015: 2015/05/25-29 @ Helsinki, Finland, 1300ユーロ前後
 - [2016](https://www.xp2016.org/): 2016/05/24～27 @ Edinburgh, Scotland, ￡150.00～￡1000.00
 - [2017](https://www.xp2017.org/): 2017/05/22-26 @ Cologne, Germany
 - [2018](https://www.agilealliance.org/xp2018/): 2018/05/21-25 @ Porto, Portugal
+- 2019: 2019/05/21-25 @ Montreal, Canada
 
 ### [STAREAST (Software Testing Analysis & Review East)](https://stareast.techwell.com/)
 - 2015: 2015/5/3-8 @ OrlandO, FL, USA, $2,600- 前後
