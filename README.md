@@ -143,7 +143,7 @@ Agile2018
 - [2018](https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018): 2018/9/8-9 @ CodeNode, London
 
 ### XP Conference
-アジャイル開発における %%欧州最大%% のカンファレンス．2018よりAgile Allianceが関わっている．
+アジャイル開発における ~~欧州最大~~ のカンファレンス．2018よりAgile Allianceが関わっている．
 - 2015: 2015/05/25-29 @ Helsinki, Finland, 1300ユーロ前後
 - [2016](https://www.xp2016.org/): 2016/05/24～27 @ Edinburgh, Scotland, ￡150.00～￡1000.00
 - [2017](https://www.xp2017.org/): 2017/05/22-26 @ Cologne, Germany
