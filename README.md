@@ -106,6 +106,7 @@ SQiPシンポジウムの主催団体が行うセミナー
 ### Selenium Conf
 - [2017](https://www.seleniumconf.de): 9–10 October 2017 @ Berlin, Germany
 - [2018](https://www.seleniumconf.us): AUTUMN 2018 @ Chicago, USA
+- 2019: 2019/04/18-19 @ Tokyo, Japan
 
 ### [appium Conference](https://appiumconf.com)
 - 2018: 2018/04/06 @ London, UK
