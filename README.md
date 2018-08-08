@@ -23,9 +23,9 @@ SPICE のカンファレンスと研究会。
 長崎になんらかの縁や関わり、興味があるIT技術者を中心とした技術コミュニティによるカンファレンス。
 ほか、東京にてほぼ毎月勉強会を開催。
 
-### [Agile Japan](http://www.agilejapan.org/) / 4月
+### [Agile Japan](http://www.agilejapan.org/)
 アジャイルソフトウェア開発のカンファレンス。
-- 2018 は7月下旬～8月上旬開催予定
+- 2018: 2018/07/19 @ TOC有明 コンベンションホール
 
 ### [派生開発カンファレンス](http://affordd.jp/about_conference.shtml) / 5月, 論文あり
 派生開発を扱う。
