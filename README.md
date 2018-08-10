@@ -111,6 +111,22 @@ SQiPシンポジウムの主催団体が行うセミナー
 ### [appium Conference](https://appiumconf.com)
 - 2018: 2018/04/06 @ London, UK
 	- £499(EX. VAT @20%)
+### [Conference of the Association for Software Testing (CAST)](https://www.associationforsoftwaretesting.org/conference/)
+The Association for Software Testing is dedicated to advancing the understanding of the science and practice of software testing according to Context-Driven principles.
+- [2018](https://www.associationforsoftwaretesting.org/conference/cast-2018/): August 6 – 9, 2018 @ Cocoa Beach, FL, USA
+
+### [STAREAST (Software Testing Analysis & Review East)](https://stareast.techwell.com/)
+- 2015: 2015/5/3-8 @ Orlando, FL, USA, $2,600- 前後
+- 2016: 2016/5/1-6 @ Orlando, FL, USA, $695-3,795
+- 2017: -
+- 2018: 2018/4/29-5/4 @ Orlando, FL, USA
+
+### [STARWEST (Software Testing Analysis & Review West)](https://starwest.techwell.com/)
+テストに関する総合的なカンファレンス。最近の基本的な技術に関する講演やチュートリアル、ワークショップが多い。
+- 2015: 2015/9/27-2015/10/2 @ Anahiem, California, USA, $2,600- 前後
+- 2016: 2016/10/2-7 @ Anaheim, CA, $695-3,795
+- 2017: 2017/10/1-6 @ Anaheim, CA, USA
+- 2018: 2018/9/30-10/5 @ Anaheim, CA, USA
 
 ### [EuroSTAR Conference](https://conference.eurostarsoftwaretesting.com/)
 ソフトウェア品質保証系の欧州最大のカンファレンス
@@ -150,19 +166,6 @@ Agile2018
 - [2017](https://www.xp2017.org/): 2017/05/22-26 @ Cologne, Germany
 - [2018](https://www.agilealliance.org/xp2018/): 2018/05/21-25 @ Porto, Portugal
 - 2019: 2019/05/21-25 @ Montreal, Canada
-
-### [STAREAST (Software Testing Analysis & Review East)](https://stareast.techwell.com/)
-- 2015: 2015/5/3-8 @ OrlandO, FL, USA, $2,600- 前後
-- 2016: 2016/5/1-6 @ Orlando, FL, USA, $695-3,795
-- 2017: -
-- 2018: 2018/4/29-5/4 @ Orlando, FL, USA
-
-### [STARWEST (Software Testing Analysis & Review West)](https://starwest.techwell.com/)
-テストに関する総合的なカンファレンス。最近の基本的な技術に関する講演やチュートリアル、ワークショップが多い。
-- 2015: 2015/9/27-2015/10/2 @ Anahiem, California, USA, $2,600- 前後
-- 2016: 2016/10/2-7 @ Anaheim, CA, $695-3,795
-- 2017: 2017/10/1-6 @ Anaheim, CA, USA
-- 2018: 2018/9/30-10/5 @ Anaheim, CA, USA
 
 ### Better Software Conference West / Agile Development Conference West / DevOps Conference West
 どれか登録で3つとも行ける
