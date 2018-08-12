@@ -217,5 +217,14 @@ Agile2018
 ### TDA2016(International Workshop on Technical Debt Analytics)
 - 2016: APSECの併設workshop
 
+### PROFES(the International Conference on Product-Focused Software Process Improvement)
+PROFES, the International Conference on Product-Focused Software Process Improvement, is among the top recognized software development and process improvement conferences. 
+- [19th, 2018](https://profes2018.wordpress.com/):  November 28-30, 2018. @ Wolfsburg, Germany.
+
+### [QuASD(the International Workshop on Managing Quality in Agile and Rapid Software Development Processes)](http://www.quasd.org/)
+QuASD, the International Workshop on Managing Quality in Agile & Rapid Software Development Processes, aims at investigating product and process quality in the context of agile and rapid software development. 
+- Twiter: @quasd_ws
+- 2nd, 2018: Nov 28th, 2018. @ Wolfsburg, Germany.(PROFES2018 will host the co-located workshop)
+
 ## Information
 - [Qbook](http://www.qbook.jp/qptop)
