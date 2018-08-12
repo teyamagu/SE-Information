@@ -219,6 +219,7 @@ Agile2018
 
 ### PROFES(the International Conference on Product-Focused Software Process Improvement)
 PROFES, the International Conference on Product-Focused Software Process Improvement, is among the top recognized software development and process improvement conferences. 
+- Twitter: @PROFES_conf
 - [19th, 2018](https://profes2018.wordpress.com/):  November 28-30, 2018. @ Wolfsburg, Germany.
 
 ### [QuASD(the International Workshop on Managing Quality in Agile and Rapid Software Development Processes)](http://www.quasd.org/)
