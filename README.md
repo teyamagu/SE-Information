@@ -153,11 +153,11 @@ Agile2018
 - 2019: 2019/08/05-09 @ Washington D.C, USA
 - 2020: 2020/07/20-24 @ Orlando, Florida, USA
 
-### Agile Testing & BDD eXchange
+### Agile Testing & BDD eXchange -> P3X - People, Product, & Process eXchange(since 2018)
 - 2015: 2015/11/12-13 @ London, UK, now 195ユーロ+税，max 650ユーロ
 - 2016: 2016/11/10-11 @ CodeNode , London,now 395ユーロ+VAT，max650ユーロ
 - [2017](https://skillsmatter.com/conferences/8628-agile-testing-and-bdd-exchange-2017): 2017/9/9-10 @ CodeNode, London
-- [2018](https://skillsmatter.com/conferences/10367-formerly-known-as-agile-testing-and-bdd-exchange-2018): 2018/9/8-9 @ CodeNode, London
+- [2018](https://skillsmatter.com/conferences/10367-p3x-people-product-process-exchange-2018): 2018/11/8-9 @ CodeNode, London
 
 ### XP Conference
 アジャイル開発における ~~欧州最大~~ のカンファレンス．2018よりAgile Allianceが関わっている．
