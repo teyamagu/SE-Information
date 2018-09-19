@@ -227,5 +227,9 @@ QuASD, the International Workshop on Managing Quality in Agile & Rapid Software 
 - Twiter: @quasd_ws
 - 2nd, 2018: Nov 28th, 2018. @ Wolfsburg, Germany.(PROFES2018 will host the co-located workshop)
 
+### [MOBILESoft(IEEE/ACM International Conference on Mobile Software Engineering and Systems)](https://www.mobilesoftconf.org)
+- [66th, 2019](http://mobilesoftconf.org/2019/): Montréal, Canada Co-located with ICSE 2019 May 25 – 31
+- Twitter: @mobilesoftconf
+
 ## Information
 - [Qbook](http://www.qbook.jp/qptop)
