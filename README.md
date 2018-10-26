@@ -108,6 +108,7 @@ SQiPシンポジウムの主催団体が行うセミナー
 ### [SauceCon](https://saucecon.com)
 - 2018: 2018/3/1-2 @ SAN FRANCISCO
 	- Workshop Day on Wednesday, Feb 28
+- 2019: 2019/4/23-25 @ AUSTIN
 
 ### Selenium Conf
 - [2017](https://www.seleniumconf.de): 9–10 October 2017 @ Berlin, Germany
@@ -117,6 +118,8 @@ SQiPシンポジウムの主催団体が行うセミナー
 ### [appium Conference](https://appiumconf.com)
 - 2018: 2018/04/06 @ London, UK
 	- £499(EX. VAT @20%)
+- 2019: 2019/06/13-15 @ Bangalore, India
+
 ### [Conference of the Association for Software Testing (CAST)](https://www.associationforsoftwaretesting.org/conference/)
 The Association for Software Testing is dedicated to advancing the understanding of the science and practice of software testing according to Context-Driven principles.
 - [2018](https://www.associationforsoftwaretesting.org/conference/cast-2018/): August 6 – 9, 2018 @ Cocoa Beach, FL, USA
