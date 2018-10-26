@@ -82,6 +82,12 @@ SQiPシンポジウムの主催団体が行うセミナー
 - [Archives](http://listserv.acm.org/scripts/wa-acmlpx.exe?A0=seworld)
 
 ##  :red_circle: Conferences and Seminars in the world
+### [SPLASH](https://2018.splashcon.org/series/splash)
+- "The ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity embraces all aspects of software construction and delivery to make it the premier conference at the intersection of programming, languages, and software engineering."
+	- "SPLASH includes the following co-located conferences: OOPSLA, Onward!, GPCE, SLE, and DLS; as well as sixteen workshops."
+- [2018](https://2018.splashcon.org/): 2018/11/04-09, Boston, USA
+- [2019](https://2019.splashcon.org/): 2019/10/20-25, Athens, Greece
+
 ### [Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/)
 - 2015: Nov 10-11 at Google Cambridge.
 - 2016: Google’s campus in Sunnyvale (California, USA) on Tuesday and Wednesday, November 15th and 16th, 2016.
